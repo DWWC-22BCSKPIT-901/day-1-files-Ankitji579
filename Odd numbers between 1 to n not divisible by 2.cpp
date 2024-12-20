@@ -6,6 +6,7 @@ This problem is a simple introduction to loops and conditional checks. The
 goal is to use a loop to iterate over the numbers and check if they are odd
 using the condition i%2≠0.
 */
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
